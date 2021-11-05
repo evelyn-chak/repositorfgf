@@ -2,8 +2,9 @@
 .title{ outline: 5px solid aqua}
 .title{ font-family: Helvetica}
 .title{ font-style: italic;}
-h1{ color: rgb(43, 173, 216)}
+h1{ color: rgb(32, 152, 192)}
 h1{ font-family: Arial bold;}
 p{ color: greenyellow}
 a{ font-family: 'sans-serif'}
 a{ font-weight: bold;}
+body {background-color: url("images/inrainbows.jpeg");}
